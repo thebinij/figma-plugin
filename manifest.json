@@ -1,0 +1,17 @@
+{
+  "name": "My First Plugin",
+  "id": "1243557886149056285",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "cdn.jsdelivr.net"
+    ]
+  }
+}
